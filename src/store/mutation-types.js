@@ -1,0 +1,6 @@
+export const IS_AUTHENTICATED = 'IS_AUTHENTICATED'
+export const STATIONS = 'STATIONS'
+export const ROADS = 'ROADS'
+export const VEHICLE_TYPES = 'VEHICLE_TYPES'
+export const LOADING = 'LOADING'
+export const ERROR = 'ERROR'
